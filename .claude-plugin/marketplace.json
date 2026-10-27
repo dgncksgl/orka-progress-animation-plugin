@@ -1,0 +1,14 @@
+{
+  "name": "orka-progress-animation",
+  "description": "Marketplace for the orka plugin",
+  "owner": {
+    "name": "dgncksgl"
+  },
+  "plugins": [
+    {
+      "name": "orka",
+      "source": "./",
+      "description": "An orca swims above the prompt while Claude works and grows as tool calls add up"
+    }
+  ]
+}

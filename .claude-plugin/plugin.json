@@ -1,0 +1,12 @@
+{
+  "name": "orka",
+  "description": "An orca swims above the prompt while Claude works and grows with every tool call, from Calf to Legend.",
+  "author": {
+    "name": "dgncksgl"
+  },
+  "homepage": "https://github.com/dgncksgl/orka-progress-animation-plugin",
+  "repository": "https://github.com/dgncksgl/orka-progress-animation-plugin",
+  "license": "MIT",
+  "keywords": ["animation", "progress", "terminal", "mod"],
+  "types": "./types/index.d.ts"
+}
